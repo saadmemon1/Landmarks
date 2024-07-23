@@ -11,7 +11,7 @@ This is the Landmarks app, a SwiftUI tutorial project designed to teach the fund
 - Load and display data from a JSON file.
 
 ## Screenshots
-![Landmark List View](Landmark%20List%20Picture.png)
+![Landmark List View](Landmarks%20List%20Picture.png)
 
 ![Landmark Detail & Map View](Landmark%20Details%20Picture.png)
 
